@@ -1,0 +1,258 @@
+{
+  "buyer1_name": {
+    "page": 1,
+    "x": 394.515625,
+    "y": 466.3909651209882,
+    "fontSize": 12,
+    "width": 353,
+    "height": 40.00283486888732
+  },
+  "buyer2_name": {
+    "page": 1,
+    "x": 1175.015625,
+    "y": 470.0944650450542,
+    "fontSize": 12,
+    "width": 411,
+    "height": 29
+  },
+  "seller1_name": {
+    "page": 1,
+    "x": 401.515625,
+    "y": 569.5889123721778,
+    "fontSize": 12,
+    "width": 355,
+    "height": 32.00202490634808
+  },
+  "seller2_name": {
+    "page": 1,
+    "x": 1176.515625,
+    "y": 567.3855643160879,
+    "fontSize": 12,
+    "width": 413,
+    "height": 36.002429887617694
+  },
+  "property_address": {
+    "page": 1,
+    "x": 357.515625,
+    "y": 771.7812563278324,
+    "fontSize": 11,
+    "width": 619,
+    "height": 23
+  },
+  "city": {
+    "page": 1,
+    "x": 1437.515625,
+    "y": 772.5782120076947,
+    "fontSize": 11,
+    "width": 150,
+    "height": 30.001888395807754
+  },
+  "legal_description": {
+    "page": 1,
+    "x": 474.015625,
+    "y": 1154.7419003746077,
+    "fontSize": 11,
+    "width": 1165,
+    "height": 73
+  },
+  "purchase_price": {
+    "page": 1,
+    "x": 1736.515625,
+    "y": 1342.8390674040702,
+    "fontSize": 12,
+    "width": 270,
+    "height": 28
+  },
+  "purchase_price_words": {
+    "page": 1,
+    "x": 797.015625,
+    "y": 1413.8486124699361,
+    "fontSize": 11,
+    "width": 404,
+    "height": 35.001113698491444
+  },
+  "deposit_amount": {
+    "page": 1,
+    "x": 1746.515625,
+    "y": 1622.851789510985,
+    "fontSize": 12,
+    "width": 272,
+    "height": 40
+  },
+  "deposit_words": {
+    "page": 1,
+    "x": 731.015625,
+    "y": 1631.3682766781412,
+    "fontSize": 11,
+    "width": 489,
+    "height": 29
+  },
+  "deposit_holder": {
+    "page": 1,
+    "x": 810.515625,
+    "y": 1725.159021590564,
+    "fontSize": 11,
+    "width": 590,
+    "height": 23
+  },
+  "irrev_party": {
+    "page": 1,
+    "x": 1000.015625,
+    "y": 2116.6168381333823,
+    "fontSize": 11,
+    "width": 299,
+    "height": 41.99877705760059
+  },
+  "irrev_time": {
+    "page": 1,
+    "x": 1631.53125,
+    "y": 2125.6164712506625,
+    "fontSize": 11,
+    "width": 185,
+    "height": 30
+  },
+  "agreement_day": {
+    "page": 1,
+    "x": 765.515625,
+    "y": 379.36653019641597,
+    "fontSize": 11,
+    "width": 89,
+    "height": 36.00302143329242
+  },
+  "agreement_month": {
+    "page": 1,
+    "x": 1186.015625,
+    "y": 375.0692201579427,
+    "fontSize": 11,
+    "width": 255,
+    "height": 35.00188839580776
+  },
+  "agreement_year": {
+    "page": 1,
+    "x": 1990.515625,
+    "y": 379.5626515939016,
+    "fontSize": 11,
+    "width": 68,
+    "height": 28
+  },
+  "irrev_day": {
+    "page": 1,
+    "x": 1950.03125,
+    "y": 2129.6163081916757,
+    "fontSize": 11,
+    "width": 134,
+    "height": 30
+  },
+  "irrev_month": {
+    "page": 1,
+    "x": 414.515625,
+    "y": 2210.113026629571,
+    "fontSize": 11,
+    "width": 341,
+    "height": 48.99849170437406
+  },
+  "irrev_year": {
+    "page": 1,
+    "x": 968.015625,
+    "y": 2229.3153688190455,
+    "fontSize": 11,
+    "width": 102,
+    "height": 29
+  },
+  "completion_day": {
+    "page": 1,
+    "x": 1407.53125,
+    "y": 2364.013002680282,
+    "fontSize": 11,
+    "width": 114,
+    "height": 28
+  },
+  "completion_month": {
+    "page": 1,
+    "x": 1663.53125,
+    "y": 2359.325693765032,
+    "fontSize": 11,
+    "width": 288,
+    "height": 31
+  },
+  "completion_year": {
+    "page": 1,
+    "x": 260.015625,
+    "y": 2446.8221268497005,
+    "fontSize": 11,
+    "width": 110,
+    "height": 30
+  },
+  "fronting_on": {
+    "page": 1,
+    "x": 425.515625,
+    "y": 862.1029000455604,
+    "fontSize": 11,
+    "width": 248,
+    "height": 27
+  },
+  "city_or_town_label": {
+    "page": 1,
+    "x": 291.015625,
+    "y": 954.0965880328035,
+    "fontSize": 11,
+    "width": 305,
+    "height": 29
+  },
+  "city_name": {
+    "page": 1,
+    "x": 1670,
+    "y": 753.9982060595323,
+    "fontSize": 11,
+    "width": 169,
+    "height": 49.002706321461844
+  },
+  "frontage_unit": {
+    "page": 1,
+    "x": 796.515625,
+    "y": 1053.0909847372684,
+    "fontSize": 10,
+    "width": 91,
+    "height": 33
+  },
+  "frontage_value": {
+    "page": 1,
+    "x": 525.015625,
+    "y": 1048.5905291333402,
+    "fontSize": 10,
+    "width": 154,
+    "height": 34
+  },
+  "depth_unit": {
+    "page": 1,
+    "x": 1767.515625,
+    "y": 1050.590731623975,
+    "fontSize": 10,
+    "width": 99,
+    "height": 28
+  },
+  "depth_value": {
+    "page": 1,
+    "x": 1462.015625,
+    "y": 1048.0904785106814,
+    "fontSize": 10,
+    "width": 110,
+    "height": 29
+  },
+  "buyer_submits": {
+    "page": 1,
+    "x": 781.515625,
+    "y": 1515.1413581284905,
+    "fontSize": 11,
+    "width": 496,
+    "height": 41.99955158778688
+  },
+  "schedules_attached": {
+    "page": 1,
+    "x": 389.015625,
+    "y": 2039.823093738535,
+    "fontSize": 11,
+    "width": 317,
+    "height": 37.99894011658718
+  }
+}
